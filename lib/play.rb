@@ -40,5 +40,6 @@ def play(board)
   turn = 0
   turn(board)
   until turn == 8
+  
 end
 end
